@@ -1,7 +1,5 @@
 # Product-Management-System
 
-# Product Management System
-
 A simple **Product Management System** built with **HTML, CSS, and Vanilla JavaScript**. This project demonstrates the fundamentals of CRUD (Create, Read, Update, Delete) operations without using any frameworks or external libraries.
 
 ## Features
